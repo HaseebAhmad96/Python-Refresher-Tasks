@@ -1,0 +1,12 @@
+[2024-01-01 10:00:01] INFO [ServerStart] Server started successfully
+[2024-01-01 10:01:15] INFO [Auth] User login successful
+[2024-01-01 10:02:40] ERROR [TimeoutError] Connection to database timed out
+[2024-01-01 10:03:22] WARNING [MemoryUsage] High memory usage detected
+[2024-01-01 10:04:05] CRITICAL [DiskError] Disk space exhausted on /dev/sda1
+[2024-01-01 10:05:11] INFO [Request] GET /api/products
+[2024-01-01 10:06:30] ERROR [ValueError] Invalid input received from client
+[2024-01-01 10:07:44] INFO [Auth] User logout successful
+[2024-01-01 10:08:12] CRITICAL [MemoryError] Application ran out of memory
+[2024-01-01 10:09:50] ERROR [ConnectionError] Failed to reach external API
+[2024-01-01 10:10:31] INFO [Scheduler] Background job completed
+[2024-01-01 10:11:14] ERROR [TimeoutError] Payment service request timed out
